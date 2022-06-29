@@ -1,0 +1,1 @@
+text(allPlayers[plr].name,x,y)
